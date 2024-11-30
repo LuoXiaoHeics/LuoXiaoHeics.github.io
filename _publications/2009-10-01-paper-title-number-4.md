@@ -8,6 +8,5 @@ date: 2023-7-08
 venue: 'Findings of EMNLP'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://aclanthology.org/2023.findings-emnlp.507/'
-citation: 'Luo Y, Yang Z, Meng F, et al. Enhancing Argument Structure Extraction with Efficient Leverage of Contextual Information[C]//Findings of the Association for Computational Linguistics: EMNLP 2023: 7563-7571.
-'
+citation: 'Luo Y, Yang Z, Meng F, et al. Enhancing Argument Structure Extraction with Efficient Leverage of Contextual Information[C]//Findings of the Association for Computational Linguistics: EMNLP 2023: 7563-7571.'
 ---
