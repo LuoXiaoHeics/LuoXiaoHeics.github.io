@@ -8,11 +8,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Experience"
-    url: /talks/    
+  # - title: "Experience"
+  #   url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Experience"
+    url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
