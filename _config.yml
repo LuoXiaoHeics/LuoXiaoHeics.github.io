@@ -78,8 +78,8 @@ author:
 publication_category:
   Opinion:
     title: 'Opinion Mining'
-  Forgetting:
-    title: 'Forgetting Phenonmenon'    
+  LLMs:
+    title: 'Large Language Model'    
   Literature:
     title: 'Literature Review and Recommendation'    
   GNN:
