@@ -2,7 +2,7 @@
 title: "Generating Diverse Criteria On-the-Fly to Improve Point-wise LLM Rankers"
 collection: publications
 category: Literature
-permalink: /publication/2009-10-01-paper-title-number-6
+permalink: /publication/2009-10-01-paper-title-number-7
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-11-10
 venue: 'WSDM'
