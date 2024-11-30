@@ -11,6 +11,7 @@ I am currently a fifth-year Ph.D. student in Natural language Processing at Zhej
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
+During my doctoral studies, I had the fortune to collaborate with excellent scientists and researchers, such as Dr. Yingjie Li, Dr. Zihan Liu, Dr. Yafu Li, Dr. Jianhao Yan, Dr Zhen Yang, Professor Xuefeng Bai. If you have any interests in collaborating with me, please drop me an email.
 
 For more info
 ------
