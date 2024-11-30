@@ -25,10 +25,10 @@ author:
   name             : "Yun Luo"
   pronouns         : # example: "He/Him"  
   # bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  # location         : "Earth"
   # employer         : "Red Brick University"
   # uri              : # URL
-  email            : "luoyun at westlake.edu.cn" 
+  # email            : "luoyun at westlake.edu.cn" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
