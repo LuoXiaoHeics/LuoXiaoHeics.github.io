@@ -14,7 +14,7 @@ name                     : &name "Yun Luo"
 description              : &description "personal description"
 url                      : https://luoxiaoheics.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "LuoXiaoHeics/LuoXiaoHeics.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yun Luo"
-  pronouns         : # example: "He/Him"  
+  pronouns         : example: "He/Him"  
   # bio              : "Short biography for the left-hand sidebar"
   # location         : "Earth"
-  # employer         : "Red Brick University"
+  employer         : "Westlake University"
   # uri              : # URL
   # email            : "luoyun at westlake.edu.cn" 
 
