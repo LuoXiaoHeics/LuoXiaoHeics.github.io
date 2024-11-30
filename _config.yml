@@ -76,10 +76,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  LLMs:
+    title: 'Large Language Model'   
   Opinion:
     title: 'Opinion Mining'
-  LLMs:
-    title: 'Large Language Model'    
   Literature:
     title: 'Literature Review and Recommendation'    
   GNN:
