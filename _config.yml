@@ -80,8 +80,10 @@ publication_category:
     title: 'Opinion Mining'
   Forgetting:
     title: 'Forgetting Phenonmenon'    
+  Literature:
+    title: 'Literature Review and Recommendation'    
   GNN:
-    title: 'Graph Neural Network'
+    title: 'Graph Neural Network and Social Network'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
