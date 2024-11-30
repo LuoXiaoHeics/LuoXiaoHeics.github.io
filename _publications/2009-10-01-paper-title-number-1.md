@@ -4,11 +4,9 @@ collection: publications
 category: Opinion
 permalink: /publication/2009-10-01-paper-title-number-1
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-10-01
+# date: 2022-10-01
 venue: 'COLING 2022'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://aclanthology.org/2022.coling-1.621/'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Luo Y, Liu Z, Shi Y, et al. Exploiting sentiment and common sense for zero-shot stance detection[C]//Proceedings of the 29th International Conference on Computational Linguistics. 2022: 7112-7123.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
