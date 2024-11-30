@@ -2,7 +2,7 @@
 title: "Towards reasonable budget allocation in untargeted graph structure attacks via gradient debias"
 collection: publications
 category: GNN
-permalink: /publication/2009-10-01-paper-title-number-14
+permalink: /publication/2009-10-01-paper-title-number-15
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-3-29
 venue: 'NeurIPS'
