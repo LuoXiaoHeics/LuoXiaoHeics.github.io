@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,36 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Computer Science, Zhejiang University and Westlake University, 2025 (expected)
+* B.S. GIS, Westlake University, 2020
 
-Work experience
+Intern experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022.11 - 2023.10: Wechat
+  * Pattern Recognition Center, Wechat, Tencent Inc.
+  * Duties includes: Continual Learning of LLMs
+  * Supervisor: Zhen Yang, Fandong Meng
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023.10 - Current: Amazon
+  * AI Lab, Amazon Shanghai
+  * Duties included: Retrieval-augmented Generation
+  * Supervisor: Xiangkun Hu, Zheng Zhang
 
-* Summer 2015: Research Assistant
+<!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
+   -->
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
-
+* Skill 3 -->
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -57,8 +56,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for ACL, ICLR, WWW, TKDE, COLING, TASLP.
