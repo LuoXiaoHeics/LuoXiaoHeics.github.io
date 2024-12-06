@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -25,6 +25,14 @@ Intern experience
   * AI Lab, Amazon Shanghai
   * Duties included: Retrieval-augmented Generation
   * Supervisor: Xiangkun Hu, Zheng Zhang
+
+
+Project
+======
+* 2022 - 2024 Xinhua News Agency: 
+  * The Main Project Lead for Open-Domain News Stance Detection at Xinhua News Agency
+
+
 
 <!-- * Summer 2015: Research Assistant
   * Github University
