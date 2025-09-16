@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fifth-year Ph.D. student in Natural language Processing at Zhejiang University -- Westlake University, instructed by Yue Zhang. I obtained my Bachelor's degree from Wuhan University majoring in geographical information science (GIS) in 2020. My current research interests include forgetting of LLMs, active learning, opinion mining, and graph neural networks.
+I am currently a researcher at Shanghai AI Lab. I obtained my Ph.D. degree in Natural Language Processing at Zhejiang University -- Westlake University, instructed by Yue Zhang. I received my Bachelor's degree from Wuhan University, majoring in geographical information science (GIS) in 2020. My current research interests include Multi-modal LLMs, reasoning,  and forgetting of LLMs. 
 
-During my doctoral studies, I had the fortune to collaborate with excellent scientists and researchers, such as Dr. Yingjie Li, Dr. Zihan Liu, Dr. Yafu Li, Dr. Jianhao Yan, Dr. Zhen Yang, Dr Yuke Li, and Professor. Xuefeng Bai. If you have any interests in collaborating with me, please drop me an email.
+During my doctoral studies, I had the fortune to collaborate with excellent scientists and researchers, such as Dr. Yingjie Li, Dr. Zihan Liu, Dr. Yafu Li, Dr. Jianhao Yan, Dr. Zhen Yang, and Professor. Xuefeng Bai. 
 
-I have two very adorable cats, one of whom is named Heihei, and is also the cat in my profile picture. She's the inspiration behind my nickname. They keep me company while I am coding and writing papers! I hope you can also feel her cuteness :)
+We are hiring interns for Multi-modal Reasoning and Online Learning of LLMs. If you have any interest, please drop me an email at ylramirocs at gmail.com .
+
+I have two very adorable cats with my cute girlfriend QiQi, one of whom is named Heihei, and is also the cat in my profile picture. She's the inspiration behind my nickname. They keep me company while I am coding and writing papers! I hope you can also feel her cuteness :)
