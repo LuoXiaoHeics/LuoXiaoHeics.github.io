@@ -96,7 +96,8 @@
     Olympiad Benchmark?'
   topic: ai-for-math-and-physics
   date: '2025-09-09'
-  venue: arXiv preprint
+  venue: ICML
+  publication_year: 2026
   url: https://arxiv.org/abs/2509.07894
   scholar_id: B_bdRlAAAAAJ:pqnbT2bcN3wC
 - title: Mere Contrastive Learning for Cross-Domain Sentiment Analysis
@@ -118,7 +119,7 @@
     Learning
   topic: forgetting-of-llms
   date: '2023-05-10'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2305.05968
   scholar_id: B_bdRlAAAAAJ:YOwf2qJgpHMC
 - title: 'RefuteBench: Evaluating Refuting Instruction-Following for Large Language
@@ -132,7 +133,7 @@
 - title: Challenges for Open-domain Targeted Sentiment Analysis
   topic: opinion-mining
   date: '2022-04-14'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2204.06893
   scholar_id: B_bdRlAAAAAJ:WF5omc3nYNoC
 - title: Surrogate representation learning with isometric mapping for gray-box graph
@@ -169,20 +170,20 @@
 - title: 'Towards an AI Musician: Synthesizing Sheet Music Problems for Musical Reasoning'
   topic: others
   date: '2025-09-04'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2509.04059
   scholar_id: B_bdRlAAAAAJ:b0M2c_1WBrUC
 - title: 'P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads'
   topic: ai-for-math-and-physics
   date: '2026-02-10'
-  venue: arXiv preprint
+  venue: Technical Report
   url: https://arxiv.org/abs/2602.09443
   scholar_id: B_bdRlAAAAAJ:70eg2SAEIzsC
 - title: Mitigating Catastrophic Forgetting in Task-Incremental Continual Learning
     with Adaptive Classification Criterion
   topic: forgetting-of-llms
   date: '2023-05-20'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2305.12270
   scholar_id: B_bdRlAAAAAJ:_kc_bZDykSQC
 - title: 'Draft-OPD: On-Policy Distillation for Speculative Draft Models'
@@ -210,13 +211,13 @@
 - title: Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling
   topic: ai-for-math-and-physics
   date: '2026-05-13'
-  venue: arXiv preprint
+  venue: Technical Report
   url: https://arxiv.org/abs/2605.13301
   scholar_id: B_bdRlAAAAAJ:yD5IFk8b50cC
 - title: 'P1: Mastering Physics Olympiads with Reinforcement Learning'
   topic: ai-for-math-and-physics
   date: '2025-11-17'
-  venue: arXiv preprint
+  venue: Technical Report
   url: https://arxiv.org/abs/2511.13612
   scholar_id: B_bdRlAAAAAJ:lSLTfruPkqcC
 - title: Tactile–visual fusion based robotic grasp detection method with a reproducible
@@ -259,14 +260,14 @@
 - title: What Does the Gradient Tell When Attacking the Graph Structure
   topic: graph-neural-network
   date: '2022-08-26'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2208.12815
   scholar_id: B_bdRlAAAAAJ:hqOjcs7Dif8C
 - title: 'SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context
     Reasoning'
   topic: post-training
   date: '2026-08-14'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2608.14277
   scholar_id: B_bdRlAAAAAJ:NhqRSupF_l8C
 - title: RefuteBench 2.0 -- Agentic Benchmark for Dynamic Evaluation of LLM Responses
@@ -300,7 +301,7 @@
 - title: 'Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening'
   topic: post-training
   date: '2026-09-16'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2609.18708
   scholar_id: B_bdRlAAAAAJ:CHSYGLWDkRkC
 - title: 'PerSphere: A Comprehensive Framework for Multi-Faceted Perspective Retrieval
@@ -322,14 +323,14 @@
     Tool-Integrated Reasoning'
   topic: ai-for-math-and-physics
   date: '2026-05-07'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2605.06326
   scholar_id: B_bdRlAAAAAJ:cFHS6HbyZ2cC
 - title: 'Think Longer to Explore Deeper: Learn to Explore In-Context via Length-Incentivized
     Reinforcement Learning'
   topic: post-training
   date: '2026-02-12'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2602.11748
   scholar_id: B_bdRlAAAAAJ:2P1L_qKh6hAC
 - title: Hegselmann-Krause Opinion Model on High-order Network
@@ -350,51 +351,51 @@
     Masked Language Modeling'
   topic: post-training
   date: '2026-10-15'
-  venue: arXiv preprint
+  venue: Technical Report
   url: https://arxiv.org/abs/2610.22131
   scholar_id: B_bdRlAAAAAJ:OU6Ihb5iCvQC
 - title: 'From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported
     Physics Research'
   topic: ai-for-math-and-physics
   date: '2026-10-15'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2610.21767
   scholar_id: B_bdRlAAAAAJ:uWQEDVKXjbEC
 - title: 'TPPO: Tracking-Value PPO For Language Model Reasoning'
   topic: post-training
   date: '2026-10-12'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2610.16794
   scholar_id: B_bdRlAAAAAJ:SP6oXDckpogC
 - title: 'Gains and Collapse in On-Policy Distillation: A Reinforcement Learning Perspective'
   topic: post-training
   date: '2026-10-02'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2610.03185
   scholar_id: B_bdRlAAAAAJ:KxtntwgDAa4C
 - title: 'SciWalker: Synthesizing Scientific Coding Problems with Operator Graphs
     and Execution Feedback'
   topic: ai-for-math-and-physics
   date: '2026-09-24'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2609.30054
   scholar_id: B_bdRlAAAAAJ:nb7KW1ujOQ8C
 - title: 'DeepInstructor: An Agentic AI Instructor for Experience-Driven Idea Evaluation'
   topic: others
   date: '2026-08-14'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2609.22104
   scholar_id: B_bdRlAAAAAJ:f2IySw72cVMC
 - title: 'ComBench: A Benchmark for Rigorous Proof Reasoning and Constructive Realization
     in Olympiad-Level Combinatorics'
   topic: ai-for-math-and-physics
   date: '2026-06-09'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2606.10479
   scholar_id: B_bdRlAAAAAJ:D03iK_w7-QYC
 - title: 'TEMPO: Scaling Test-time Training for Large Reasoning Models'
   topic: post-training
   date: '2026-04-21'
-  venue: arXiv preprint
+  venue: arXiv
   url: https://arxiv.org/abs/2604.19295
   scholar_id: B_bdRlAAAAAJ:4OULZ7Gr8RgC

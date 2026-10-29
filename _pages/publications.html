@@ -32,7 +32,7 @@ publication_topics: true
           {% for paper in papers %}
             <li>
               <a href="{{ paper.url | escape }}">{{ paper.title | escape }}</a>
-              {% if paper.venue and paper.venue != 'arXiv preprint' %}
+              {% if paper.venue %}
                 <span class="publication-venue">&middot; {{ paper.venue | escape }}{% if paper.publication_year %} {{ paper.publication_year }}{% endif %}</span>
               {% endif %}
             </li>
