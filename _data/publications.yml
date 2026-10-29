@@ -2,42 +2,50 @@
 # Synced from Yun Luo (B_bdRlAAAAAJ) on Google Scholar, 2026-10-29.
 # Includes published articles and preprints; prefer published titles and years.
 # Topic assignments are editorial. date is used only for sorting.
+# publication_year is the confirmed venue year, independent of the preprint date.
+# Leave publication_year unset when only the venue is confirmed.
 ---
 - title: An empirical study of catastrophic forgetting in large language models during
     continual fine-tuning
   topic: forgetting-of-llms
   date: '2025-08-17'
   venue: IEEE Transactions on Audio, Speech and Language Processing
+  publication_year: 2025
   url: https://ieeexplore.ieee.org/abstract/document/11151751/
   scholar_id: B_bdRlAAAAAJ:iH-uZ7U-co4C
 - title: Knowledge-Centric Hallucination Detection
   topic: others
   date: '2024-05-23'
   venue: EMNLP
+  publication_year: 2024
   url: https://aclanthology.org/2024.emnlp-main.395/
   scholar_id: B_bdRlAAAAAJ:3s1wT3WcHBgC
 - title: Dynamic mechanism of social bots interfering with public opinion in network
   topic: opinion-mining
   date: '2020-08-01'
   venue: 'Physica A: Statistical Mechanics and its Applications'
+  publication_year: 2020
   url: https://www.sciencedirect.com/science/article/pii/S0378437120300169
   scholar_id: B_bdRlAAAAAJ:u-x6o8ySG0sC
 - title: 'NS-DBSCAN: A density-based clustering algorithm in network space'
   topic: others
   date: '2019-05-08'
   venue: ISPRS International Journal of Geo-Information
+  publication_year: 2019
   url: https://www.mdpi.com/2220-9964/8/5/218
   scholar_id: B_bdRlAAAAAJ:u5HHmVD_uO8C
 - title: Exploiting Sentiment and Common Sense for Zero-shot Stance Detection
   topic: opinion-mining
   date: '2022-08-18'
   venue: COLING
+  publication_year: 2022
   url: https://aclanthology.org/2022.coling-1.621/
   scholar_id: B_bdRlAAAAAJ:Se3iqnhoufwC
 - title: Spotlight on token perception for multimodal reinforcement learning
   topic: post-training
   date: '2026-04-20'
   venue: ICLR
+  publication_year: 2026
   url: https://proceedings.iclr.cc/paper_files/paper/2026/hash/a8e3197f627b9c88f86c0d3eb1ade5d7-Abstract-Conference.html
   scholar_id: B_bdRlAAAAAJ:vV6vV6tmYwMC
 - title: Towards reasonable budget allocation in untargeted graph structure attacks
@@ -45,6 +53,7 @@
   topic: graph-neural-network
   date: '2022-01-01'
   venue: NeurIPS
+  publication_year: 2022
   url: https://proceedings.neurips.cc/paper_files/paper/2022/hash/b31aec087b4c9be97d7148dfdf6e062d-Abstract-Conference.html
   scholar_id: B_bdRlAAAAAJ:3fE2CSJIrl8C
 - title: 'SpearBot: Leveraging Large Language Models in a Generative-Critique Framework
@@ -58,18 +67,21 @@
   topic: graph-neural-network
   date: '2022-10-17'
   venue: CIKM
+  publication_year: 2022
   url: https://dl.acm.org/doi/abs/10.1145/3511808.3557238
   scholar_id: B_bdRlAAAAAJ:5nxA0vEk-isC
 - title: 'OpenResearcher: Unleashing AI for Accelerated Scientific Research'
   topic: others
   date: '2024-01-01'
   venue: EMNLP System Demonstrations
+  publication_year: 2024
   url: https://aclanthology.org/2024.emnlp-demo.22/
   scholar_id: B_bdRlAAAAAJ:qUcmZB5y_30C
 - title: Adapted Deffuant–Weisbuch model with implicit and explicit opinions
   topic: opinion-mining
   date: '2022-06-15'
   venue: 'Physica A: Statistical Mechanics and its Applications'
+  publication_year: 2022
   url: https://www.sciencedirect.com/science/article/abs/pii/S0378437122001339
   scholar_id: B_bdRlAAAAAJ:eQOLeE2rZwMC
 - title: Efficient prediction of peptide self-assembly through sequential and graphical
@@ -77,6 +89,7 @@
   topic: graph-neural-network
   date: '2023-11-01'
   venue: Briefings in Bioinformatics
+  publication_year: 2023
   url: https://academic.oup.com/bib/article/24/6/bbad409/7424447
   scholar_id: B_bdRlAAAAAJ:dhFuZR0502QC
 - title: 'HiPhO: How Far Are (M)LLMs from Humans in the Latest High School Physics
@@ -90,6 +103,7 @@
   topic: opinion-mining
   date: '2022-08-18'
   venue: COLING
+  publication_year: 2022
   url: https://aclanthology.org/2022.coling-1.620/
   scholar_id: B_bdRlAAAAAJ:UebtZRa9Y70C
 - title: 'MCRanker: Generating Diverse Criteria On-the-Fly to Improve Pointwise LLM
@@ -97,6 +111,7 @@
   topic: others
   date: '2025-03-10'
   venue: WSDM
+  publication_year: 2025
   url: https://dl.acm.org/doi/abs/10.1145/3701551.3703583
   scholar_id: B_bdRlAAAAAJ:4JMBOYKVnBMC
 - title: Investigating Forgetting in Pre-Trained Representations Through Continual
@@ -111,6 +126,7 @@
   topic: forgetting-of-llms
   date: '2024-01-01'
   venue: Findings of ACL
+  publication_year: 2024
   url: https://aclanthology.org/2024.findings-acl.818/
   scholar_id: B_bdRlAAAAAJ:IWHjjKOFINEC
 - title: Challenges for Open-domain Targeted Sentiment Analysis
@@ -123,13 +139,15 @@
     adversarial attacks
   topic: graph-neural-network
   date: '2022-02-11'
-  venue: arXiv preprint
+  venue: WSDM
+  publication_year: 2022
   url: https://dl.acm.org/doi/abs/10.1145/3488560.3498481
   scholar_id: B_bdRlAAAAAJ:YsMSGLbcyi4C
 - title: Consensus for expressed and private opinions under self-persuasion
   topic: opinion-mining
   date: '2020-01-01'
   venue: IFAC-PapersOnLine
+  publication_year: 2020
   url: https://www.sciencedirect.com/science/article/pii/S2405896320304663
   scholar_id: B_bdRlAAAAAJ:UeHWp8X0CEIC
 - title: Social bots and mass media manipulated public opinion through dual opinion
@@ -137,6 +155,7 @@
   topic: opinion-mining
   date: '2022-01-01'
   venue: Chinese Physics B
+  publication_year: 2022
   url: https://iopscience.iop.org/article/10.1088/1674-1056/ac0baa/meta
   scholar_id: B_bdRlAAAAAJ:zYLM7Y9cAGgC
 - title: Improving (Dis)agreement Detection with Inductive Social Relation Information
@@ -144,6 +163,7 @@
   topic: opinion-mining
   date: '2023-01-01'
   venue: WWW
+  publication_year: 2023
   url: https://dl.acm.org/doi/abs/10.1145/3543507.3583314
   scholar_id: B_bdRlAAAAAJ:ULOm3_A8WrAC
 - title: 'Towards an AI Musician: Synthesizing Sheet Music Problems for Musical Reasoning'
@@ -168,7 +188,8 @@
 - title: 'Draft-OPD: On-Policy Distillation for Speculative Draft Models'
   topic: post-training
   date: '2026-05-28'
-  venue: arXiv preprint
+  venue: EMNLP
+  publication_year: 2026
   url: https://arxiv.org/abs/2605.29343
   scholar_id: B_bdRlAAAAAJ:a0OBvERweLwC
 - title: 'Scimine: An efficient systematic prioritization model based on richer semantic
@@ -176,12 +197,14 @@
   topic: others
   date: '2023-07-19'
   venue: SIGIR
+  publication_year: 2023
   url: https://dl.acm.org/doi/abs/10.1145/3539618.3591764
   scholar_id: B_bdRlAAAAAJ:M3ejUd6NZC8C
 - title: Opinion formation with zealots on temporal network
   topic: opinion-mining
   date: '2021-07-01'
   venue: Communications in Nonlinear Science and Numerical Simulation
+  publication_year: 2021
   url: https://www.sciencedirect.com/science/article/abs/pii/S1007570421000836
   scholar_id: B_bdRlAAAAAJ:IjCSPb-OGe4C
 - title: Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling
@@ -201,6 +224,7 @@
   topic: others
   date: '2021-01-01'
   venue: International Journal of Computational Intelligence Systems
+  publication_year: 2021
   url: https://www.atlantis-press.com/journals/ijcis/125957727/view
   scholar_id: B_bdRlAAAAAJ:W7OEmFMy1HYC
 - title: Enhancing Argument Structure Extraction with Efficient Leverage of Contextual
@@ -208,24 +232,28 @@
   topic: opinion-mining
   date: '2023-01-01'
   venue: Findings of EMNLP
+  publication_year: 2023
   url: https://aclanthology.org/2023.findings-emnlp.507/
   scholar_id: B_bdRlAAAAAJ:mVmsd5A6BfQC
 - title: A Comparative Study of Two Strategies of Road Network Selection
   topic: others
   date: '2019-01-01'
   venue: Geomatics and Information Science of Wuhan University
+  publication_year: 2019
   url: https://scholar.google.com/scholar?cluster=14123716595003210939&hl=en&oi=scholarr
   scholar_id: B_bdRlAAAAAJ:d1gkVwhDpl0C
 - title: 'Sci-Verifier: Scientific Verifier with Thinking'
   topic: ai-for-math-and-physics
   date: '2026-04-20'
   venue: ICLR
+  publication_year: 2026
   url: https://proceedings.iclr.cc/paper_files/paper/2026/hash/7d60bfd8458b67acbbaf18b892338d00-Abstract-Conference.html
   scholar_id: B_bdRlAAAAAJ:35N4QoGY0k4C
 - title: 'Task Calibration: Calibrating Large Language Models on Inference Tasks'
   topic: others
   date: '2025-01-01'
   venue: Findings of ACL
+  publication_year: 2025
   url: https://aclanthology.org/2025.findings-acl.362/
   scholar_id: B_bdRlAAAAAJ:-f6ydRqryjwC
 - title: What Does the Gradient Tell When Attacking the Graph Structure
@@ -252,18 +280,21 @@
   topic: others
   date: '2025-01-01'
   venue: ACL
+  publication_year: 2025
   url: https://aclanthology.org/2025.acl-long.1099/
   scholar_id: B_bdRlAAAAAJ:hC7cP41nSMkC
 - title: Cooperative evolution with opinion formation in a complex social environment
   topic: opinion-mining
   date: '2022-10-01'
   venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
+  publication_year: 2022
   url: https://pubs.aip.org/aip/cha/article-abstract/32/10/103123/2835977/Cooperative-evolution-with-opinion-formation-in-a?redirectedFrom=fulltext
   scholar_id: B_bdRlAAAAAJ:8k81kl-MbHgC
 - title: 'XAL: EXplainable Active Learning Makes Classifiers Better Low-resource Learners'
   topic: opinion-mining
   date: '2024-01-01'
   venue: NAACL
+  publication_year: 2024
   url: https://aclanthology.org/2024.naacl-long.372/
   scholar_id: B_bdRlAAAAAJ:4DMP91E08xMC
 - title: 'Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening'
@@ -277,12 +308,14 @@
   topic: opinion-mining
   date: '2025-01-01'
   venue: ACL
+  publication_year: 2025
   url: https://aclanthology.org/2025.acl-long.1057/
   scholar_id: B_bdRlAAAAAJ:mB3voiENLucC
 - title: Discrete opinion dynamics with social bots on signed network
   topic: opinion-mining
   date: '2020-07-27'
   venue: Chinese Control Conference (CCC)
+  publication_year: 2020
   url: https://ieeexplore.ieee.org/abstract/document/9188793/
   scholar_id: B_bdRlAAAAAJ:2osOgNQ5qMEC
 - title: 'Teaching Thinking Models to Reason with Tools: A Full-Pipeline Recipe for
@@ -303,12 +336,14 @@
   topic: opinion-mining
   date: '2022-08-15'
   venue: Chinese Control and Decision Conference (CCDC)
+  publication_year: 2022
   url: https://ieeexplore.ieee.org/abstract/document/10033976/
   scholar_id: B_bdRlAAAAAJ:Zph67rFs4hoC
 - title: 'Game-Theoretic Control of Markov Chains: Two Applications'
   topic: others
   date: '2022-08-15'
   venue: International Symposium on Mathematical Theory of Networks and Systems (MTNS)
+  publication_year: 2022
   url: https://scholar.google.com/scholar?cluster=580819202514403081&hl=en&oi=scholarr
   scholar_id: B_bdRlAAAAAJ:LkGwnXOMwfcC
 - title: 'Intern-Decision: Efficient Multimodal Decision Making with Autoregressive

@@ -30,7 +30,12 @@ publication_topics: true
         <h2 id="{{ topic.id }}" class="publication-topic__title" tabindex="-1">{{ topic.title | escape }}</h2>
         <ul class="publication-papers">
           {% for paper in papers %}
-            <li><a href="{{ paper.url | escape }}">{{ paper.title | escape }}</a></li>
+            <li>
+              <a href="{{ paper.url | escape }}">{{ paper.title | escape }}</a>
+              {% if paper.venue and paper.venue != 'arXiv preprint' %}
+                <span class="publication-venue">&middot; {{ paper.venue | escape }}{% if paper.publication_year %} {{ paper.publication_year }}{% endif %}</span>
+              {% endif %}
+            </li>
           {% endfor %}
         </ul>
       </section>

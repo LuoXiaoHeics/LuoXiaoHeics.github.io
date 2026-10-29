@@ -81,6 +81,12 @@
     }
   }
 
+  .publication-venue {
+    color: $text-color;
+    font-size: 0.9em;
+    overflow-wrap: break-word;
+  }
+
   .publications-toc {
     position: fixed;
     top: $masthead-height + 12px;
