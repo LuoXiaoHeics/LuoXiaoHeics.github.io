@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Work Experience
+======
+* 2025.06 - Current: Researcher, Shanghai AI Lab
+
 Education
 ======
 * Ph.D Computer Science, Zhejiang University and Westlake University, 2025 (expected)
@@ -21,7 +25,7 @@ Intern experience
   * Duties includes: Continual Learning of LLMs
   * Supervisor: Zhen Yang, Fandong Meng
 
-* 2023.10 - Current: Amazon
+* 2023.10 - 2025.05: Amazon
   * AI Lab, Amazon Shanghai
   * Duties included: Retrieval-augmented Generation
   * Supervisor: Xiangkun Hu, Zheng Zhang

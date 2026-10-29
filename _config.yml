@@ -26,7 +26,7 @@ author:
   pronouns         : "He/Him"  
   # bio              : "Short biography for the left-hand sidebar"
   # location         : "Earth"
-  employer         : "Westlake University"
+  employer         : "Shanghai AI Lab"
   # uri              : # URL
   # email            : "luoyun at westlake.edu.cn" 
 
@@ -66,7 +66,8 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "Ramiro32400440"
+  xiaohongshu_image: "/images/xiaohongshu-profile.jpg"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
