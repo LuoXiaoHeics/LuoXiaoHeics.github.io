@@ -33,6 +33,12 @@ Intern experience
 
 Project
 ======
+* 2023 - 2025: Project Participant, National Key R&D Program of China
+  * Research and Deployment of Modular Semantic Neural Machine Translation
+
+* 2023 - 2025: Project Participant, National Key Research Project
+  * Causal Mechanism-Guided Deep Learning Modeling for Natural Language Processing
+
 * 2022 - 2024 Xinhua News Agency: 
   * The Main Project Lead for Open-Domain News Stance Detection at Xinhua News Agency
 
