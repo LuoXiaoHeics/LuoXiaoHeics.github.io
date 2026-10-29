@@ -1,0 +1,126 @@
+.publications-page {
+  .publications-intro {
+    margin: 0 0 1.75rem;
+    font-size: 0.8rem;
+    line-height: 1.6;
+  }
+
+  .publications-layout {
+    display: grid;
+    gap: 2rem;
+    align-items: start;
+    min-width: 0;
+
+    @include breakpoint($large) {
+      grid-template-columns: minmax(0, 1fr) 175px;
+    }
+
+    @include breakpoint($x-large) {
+      grid-template-columns: minmax(0, 1fr) 200px;
+      gap: 2.5rem;
+    }
+  }
+
+  .publications-list {
+    min-width: 0;
+
+    @include breakpoint($large) {
+      grid-column: 1;
+      grid-row: 1;
+    }
+  }
+
+  .publication-topic {
+    margin-bottom: 2.25rem;
+  }
+
+  .publication-topic__title {
+    margin: 0 0 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid $border-color;
+    font-size: 1.05rem;
+    line-height: 1.4;
+    scroll-margin-top: $masthead-height + 24px;
+  }
+
+  .publication-papers {
+    margin: 0;
+    padding-left: 1.05rem;
+    font-size: 0.85rem;
+    line-height: 1.65;
+
+    li {
+      margin: 0;
+      padding: 0.35rem 0 0.35rem 0.15rem;
+    }
+
+    a {
+      font-weight: 400;
+      overflow-wrap: break-word;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .publications-toc {
+    padding-left: 1rem;
+    border-left: 1px solid $border-color;
+
+    @include breakpoint($large) {
+      position: sticky;
+      top: $masthead-height + 24px;
+      grid-column: 2;
+      grid-row: 1;
+      max-height: calc(100vh - 118px);
+      overflow-y: auto;
+    }
+
+    .publications-toc__title {
+      margin: 0 0 0.5rem;
+      font-size: 0.75rem;
+      line-height: 1.5;
+    }
+
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    li {
+      margin: 0;
+      font-size: 0.7rem;
+      line-height: 1.5;
+    }
+
+    a {
+      display: block;
+      padding: 0.4rem 0;
+      color: $text-color;
+      text-decoration: none;
+
+      &:hover,
+      &[aria-current="location"] {
+        color: $link-color;
+        text-decoration: underline;
+      }
+
+      &[aria-current="location"] {
+        font-weight: 600;
+      }
+    }
+  }
+}
+
+@media print {
+  .publications-page .publications-toc {
+    display: none;
+  }
+
+  .publications-page .publications-layout {
+    display: block;
+  }
+}

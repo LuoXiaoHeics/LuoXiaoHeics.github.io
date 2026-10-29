@@ -3,34 +3,37 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+publication_topics: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on my <a href="https://scholar.google.com/citations?hl=zh-CN&user=B_bdRlAAAAAJ"> Google Scholar profile</a>.</div>
+  <p class="publications-intro">You can also find my articles on <a href="{{ site.author.googlescholar | escape }}">Google Scholar</a>.</p>
 {% endif %}
 
-{% include base_path %}
+<div class="publications-layout">
+  <nav class="publications-toc" aria-label="Publication topics">
+    <h2 class="publications-toc__title">Topics</h2>
+    <ul>
+      {% for topic in site.data.publication_topics %}
+        <li><a href="#{{ topic.id }}">{{ topic.title | escape }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
+  <div class="publications-list">
+    {% for topic in site.data.publication_topics %}
+      {% assign papers = site.data.publications | where: 'topic', topic.id | sort: 'date' | reverse %}
+      <section class="publication-topic" aria-labelledby="{{ topic.id }}">
+        <h2 id="{{ topic.id }}" class="publication-topic__title" tabindex="-1">{{ topic.title | escape }}</h2>
+        <ul class="publication-papers">
+          {% for paper in papers %}
+            <li><a href="{{ paper.url | escape }}">{{ paper.title | escape }}</a></li>
+          {% endfor %}
+        </ul>
+      </section>
     {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  </div>
+</div>
 
-
+<script src="{{ '/assets/js/publications.js' | relative_url }}" defer></script>
 

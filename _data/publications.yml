@@ -1,0 +1,365 @@
+# Publication list used by /publications/.
+# Synced from Yun Luo (B_bdRlAAAAAJ) on Google Scholar, 2026-10-29.
+# Includes published articles and preprints; prefer published titles and years.
+# Topic assignments are editorial. date is used only for sorting.
+---
+- title: An empirical study of catastrophic forgetting in large language models during
+    continual fine-tuning
+  topic: others
+  date: '2025-08-17'
+  venue: IEEE Transactions on Audio, Speech and Language Processing
+  url: https://ieeexplore.ieee.org/abstract/document/11151751/
+  scholar_id: B_bdRlAAAAAJ:iH-uZ7U-co4C
+- title: Knowledge-Centric Hallucination Detection
+  topic: others
+  date: '2024-05-23'
+  venue: EMNLP
+  url: https://aclanthology.org/2024.emnlp-main.395/
+  scholar_id: B_bdRlAAAAAJ:3s1wT3WcHBgC
+- title: Dynamic mechanism of social bots interfering with public opinion in network
+  topic: opinion-mining
+  date: '2020-08-01'
+  venue: 'Physica A: Statistical Mechanics and its Applications'
+  url: https://www.sciencedirect.com/science/article/pii/S0378437120300169
+  scholar_id: B_bdRlAAAAAJ:u-x6o8ySG0sC
+- title: 'NS-DBSCAN: A density-based clustering algorithm in network space'
+  topic: others
+  date: '2019-05-08'
+  venue: ISPRS International Journal of Geo-Information
+  url: https://www.mdpi.com/2220-9964/8/5/218
+  scholar_id: B_bdRlAAAAAJ:u5HHmVD_uO8C
+- title: Exploiting Sentiment and Common Sense for Zero-shot Stance Detection
+  topic: opinion-mining
+  date: '2022-08-18'
+  venue: COLING
+  url: https://aclanthology.org/2022.coling-1.621/
+  scholar_id: B_bdRlAAAAAJ:Se3iqnhoufwC
+- title: Spotlight on token perception for multimodal reinforcement learning
+  topic: reinforcement-learning
+  date: '2026-04-20'
+  venue: ICLR
+  url: https://proceedings.iclr.cc/paper_files/paper/2026/hash/a8e3197f627b9c88f86c0d3eb1ade5d7-Abstract-Conference.html
+  scholar_id: B_bdRlAAAAAJ:vV6vV6tmYwMC
+- title: Towards reasonable budget allocation in untargeted graph structure attacks
+    via gradient debias
+  topic: graph-neural-network
+  date: '2022-01-01'
+  venue: NeurIPS
+  url: https://proceedings.neurips.cc/paper_files/paper/2022/hash/b31aec087b4c9be97d7148dfdf6e062d-Abstract-Conference.html
+  scholar_id: B_bdRlAAAAAJ:3fE2CSJIrl8C
+- title: 'SpearBot: Leveraging Large Language Models in a Generative-Critique Framework
+    for Spear-Phishing Email Generation'
+  topic: others
+  date: '2024-12-15'
+  venue: Information Fusion
+  url: https://arxiv.org/abs/2412.11109
+  scholar_id: B_bdRlAAAAAJ:HDshCWvjkbEC
+- title: Are gradients on graph structure reliable in gray-box attacks?
+  topic: graph-neural-network
+  date: '2022-10-17'
+  venue: CIKM
+  url: https://dl.acm.org/doi/abs/10.1145/3511808.3557238
+  scholar_id: B_bdRlAAAAAJ:5nxA0vEk-isC
+- title: 'OpenResearcher: Unleashing AI for Accelerated Scientific Research'
+  topic: others
+  date: '2024-01-01'
+  venue: EMNLP System Demonstrations
+  url: https://aclanthology.org/2024.emnlp-demo.22/
+  scholar_id: B_bdRlAAAAAJ:qUcmZB5y_30C
+- title: Adapted Deffuant–Weisbuch model with implicit and explicit opinions
+  topic: opinion-mining
+  date: '2022-06-15'
+  venue: 'Physica A: Statistical Mechanics and its Applications'
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0378437122001339
+  scholar_id: B_bdRlAAAAAJ:eQOLeE2rZwMC
+- title: Efficient prediction of peptide self-assembly through sequential and graphical
+    encoding
+  topic: graph-neural-network
+  date: '2023-11-01'
+  venue: Briefings in Bioinformatics
+  url: https://academic.oup.com/bib/article/24/6/bbad409/7424447
+  scholar_id: B_bdRlAAAAAJ:dhFuZR0502QC
+- title: 'HiPhO: How Far Are (M)LLMs from Humans in the Latest High School Physics
+    Olympiad Benchmark?'
+  topic: ai-for-math-and-physics
+  date: '2025-09-09'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2509.07894
+  scholar_id: B_bdRlAAAAAJ:pqnbT2bcN3wC
+- title: Mere Contrastive Learning for Cross-Domain Sentiment Analysis
+  topic: opinion-mining
+  date: '2022-08-18'
+  venue: COLING
+  url: https://aclanthology.org/2022.coling-1.620/
+  scholar_id: B_bdRlAAAAAJ:UebtZRa9Y70C
+- title: 'MCRanker: Generating Diverse Criteria On-the-Fly to Improve Pointwise LLM
+    Rankers'
+  topic: others
+  date: '2025-03-10'
+  venue: WSDM
+  url: https://dl.acm.org/doi/abs/10.1145/3701551.3703583
+  scholar_id: B_bdRlAAAAAJ:4JMBOYKVnBMC
+- title: Investigating Forgetting in Pre-Trained Representations Through Continual
+    Learning
+  topic: others
+  date: '2023-05-10'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2305.05968
+  scholar_id: B_bdRlAAAAAJ:YOwf2qJgpHMC
+- title: 'RefuteBench: Evaluating Refuting Instruction-Following for Large Language
+    Models'
+  topic: others
+  date: '2024-01-01'
+  venue: Findings of ACL
+  url: https://aclanthology.org/2024.findings-acl.818/
+  scholar_id: B_bdRlAAAAAJ:IWHjjKOFINEC
+- title: Challenges for Open-domain Targeted Sentiment Analysis
+  topic: opinion-mining
+  date: '2022-04-14'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2204.06893
+  scholar_id: B_bdRlAAAAAJ:WF5omc3nYNoC
+- title: Surrogate representation learning with isometric mapping for gray-box graph
+    adversarial attacks
+  topic: graph-neural-network
+  date: '2022-02-11'
+  venue: arXiv preprint
+  url: https://dl.acm.org/doi/abs/10.1145/3488560.3498481
+  scholar_id: B_bdRlAAAAAJ:YsMSGLbcyi4C
+- title: Consensus for expressed and private opinions under self-persuasion
+  topic: opinion-mining
+  date: '2020-01-01'
+  venue: IFAC-PapersOnLine
+  url: https://www.sciencedirect.com/science/article/pii/S2405896320304663
+  scholar_id: B_bdRlAAAAAJ:UeHWp8X0CEIC
+- title: Social bots and mass media manipulated public opinion through dual opinion
+    climate
+  topic: opinion-mining
+  date: '2022-01-01'
+  venue: Chinese Physics B
+  url: https://iopscience.iop.org/article/10.1088/1674-1056/ac0baa/meta
+  scholar_id: B_bdRlAAAAAJ:zYLM7Y9cAGgC
+- title: Improving (Dis)agreement Detection with Inductive Social Relation Information
+    From Comment-Reply Interactions
+  topic: opinion-mining
+  date: '2023-01-01'
+  venue: WWW
+  url: https://dl.acm.org/doi/abs/10.1145/3543507.3583314
+  scholar_id: B_bdRlAAAAAJ:ULOm3_A8WrAC
+- title: 'Towards an AI Musician: Synthesizing Sheet Music Problems for Musical Reasoning'
+  topic: others
+  date: '2025-09-04'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2509.04059
+  scholar_id: B_bdRlAAAAAJ:b0M2c_1WBrUC
+- title: 'P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads'
+  topic: ai-for-math-and-physics
+  date: '2026-02-10'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2602.09443
+  scholar_id: B_bdRlAAAAAJ:70eg2SAEIzsC
+- title: Mitigating Catastrophic Forgetting in Task-Incremental Continual Learning
+    with Adaptive Classification Criterion
+  topic: others
+  date: '2023-05-20'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2305.12270
+  scholar_id: B_bdRlAAAAAJ:_kc_bZDykSQC
+- title: 'Draft-OPD: On-Policy Distillation for Speculative Draft Models'
+  topic: reinforcement-learning
+  date: '2026-05-28'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2605.29343
+  scholar_id: B_bdRlAAAAAJ:a0OBvERweLwC
+- title: 'Scimine: An efficient systematic prioritization model based on richer semantic
+    information'
+  topic: others
+  date: '2023-07-19'
+  venue: SIGIR
+  url: https://dl.acm.org/doi/abs/10.1145/3539618.3591764
+  scholar_id: B_bdRlAAAAAJ:M3ejUd6NZC8C
+- title: Opinion formation with zealots on temporal network
+  topic: opinion-mining
+  date: '2021-07-01'
+  venue: Communications in Nonlinear Science and Numerical Simulation
+  url: https://www.sciencedirect.com/science/article/abs/pii/S1007570421000836
+  scholar_id: B_bdRlAAAAAJ:IjCSPb-OGe4C
+- title: Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling
+  topic: ai-for-math-and-physics
+  date: '2026-05-13'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2605.13301
+  scholar_id: B_bdRlAAAAAJ:yD5IFk8b50cC
+- title: 'P1: Mastering Physics Olympiads with Reinforcement Learning'
+  topic: ai-for-math-and-physics
+  date: '2025-11-17'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2511.13612
+  scholar_id: B_bdRlAAAAAJ:lSLTfruPkqcC
+- title: Tactile–visual fusion based robotic grasp detection method with a reproducible
+    sensor
+  topic: others
+  date: '2021-01-01'
+  venue: International Journal of Computational Intelligence Systems
+  url: https://www.atlantis-press.com/journals/ijcis/125957727/view
+  scholar_id: B_bdRlAAAAAJ:W7OEmFMy1HYC
+- title: Enhancing Argument Structure Extraction with Efficient Leverage of Contextual
+    Information
+  topic: opinion-mining
+  date: '2023-01-01'
+  venue: Findings of EMNLP
+  url: https://aclanthology.org/2023.findings-emnlp.507/
+  scholar_id: B_bdRlAAAAAJ:mVmsd5A6BfQC
+- title: A Comparative Study of Two Strategies of Road Network Selection
+  topic: others
+  date: '2019-01-01'
+  venue: Geomatics and Information Science of Wuhan University
+  url: https://scholar.google.com/scholar?cluster=14123716595003210939&hl=en&oi=scholarr
+  scholar_id: B_bdRlAAAAAJ:d1gkVwhDpl0C
+- title: 'Sci-Verifier: Scientific Verifier with Thinking'
+  topic: ai-for-math-and-physics
+  date: '2026-04-20'
+  venue: ICLR
+  url: https://proceedings.iclr.cc/paper_files/paper/2026/hash/7d60bfd8458b67acbbaf18b892338d00-Abstract-Conference.html
+  scholar_id: B_bdRlAAAAAJ:35N4QoGY0k4C
+- title: 'Task Calibration: Calibrating Large Language Models on Inference Tasks'
+  topic: others
+  date: '2025-01-01'
+  venue: Findings of ACL
+  url: https://aclanthology.org/2025.findings-acl.362/
+  scholar_id: B_bdRlAAAAAJ:-f6ydRqryjwC
+- title: What Does the Gradient Tell When Attacking the Graph Structure
+  topic: graph-neural-network
+  date: '2022-08-26'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2208.12815
+  scholar_id: B_bdRlAAAAAJ:hqOjcs7Dif8C
+- title: 'SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context
+    Reasoning'
+  topic: reinforcement-learning
+  date: '2026-08-14'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2608.14277
+  scholar_id: B_bdRlAAAAAJ:NhqRSupF_l8C
+- title: RefuteBench 2.0 -- Agentic Benchmark for Dynamic Evaluation of LLM Responses
+    to Refutation Instruction
+  topic: others
+  date: '2025-02-25'
+  venue: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+  url: https://arxiv.org/abs/2502.18308
+  scholar_id: B_bdRlAAAAAJ:RHpTSmoSYBkC
+- title: 'Keys to Robust Edits: from Theoretical Insights to Practical Advances'
+  topic: others
+  date: '2025-01-01'
+  venue: ACL
+  url: https://aclanthology.org/2025.acl-long.1099/
+  scholar_id: B_bdRlAAAAAJ:hC7cP41nSMkC
+- title: Cooperative evolution with opinion formation in a complex social environment
+  topic: opinion-mining
+  date: '2022-10-01'
+  venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
+  url: https://pubs.aip.org/aip/cha/article-abstract/32/10/103123/2835977/Cooperative-evolution-with-opinion-formation-in-a?redirectedFrom=fulltext
+  scholar_id: B_bdRlAAAAAJ:8k81kl-MbHgC
+- title: 'XAL: EXplainable Active Learning Makes Classifiers Better Low-resource Learners'
+  topic: opinion-mining
+  date: '2024-01-01'
+  venue: NAACL
+  url: https://aclanthology.org/2024.naacl-long.372/
+  scholar_id: B_bdRlAAAAAJ:4DMP91E08xMC
+- title: 'Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening'
+  topic: reinforcement-learning
+  date: '2026-09-16'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2609.18708
+  scholar_id: B_bdRlAAAAAJ:CHSYGLWDkRkC
+- title: 'PerSphere: A Comprehensive Framework for Multi-Faceted Perspective Retrieval
+    and Summarization'
+  topic: opinion-mining
+  date: '2025-01-01'
+  venue: ACL
+  url: https://aclanthology.org/2025.acl-long.1057/
+  scholar_id: B_bdRlAAAAAJ:mB3voiENLucC
+- title: Discrete opinion dynamics with social bots on signed network
+  topic: opinion-mining
+  date: '2020-07-27'
+  venue: Chinese Control Conference (CCC)
+  url: https://ieeexplore.ieee.org/abstract/document/9188793/
+  scholar_id: B_bdRlAAAAAJ:2osOgNQ5qMEC
+- title: 'Teaching Thinking Models to Reason with Tools: A Full-Pipeline Recipe for
+    Tool-Integrated Reasoning'
+  topic: ai-for-math-and-physics
+  date: '2026-05-07'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2605.06326
+  scholar_id: B_bdRlAAAAAJ:cFHS6HbyZ2cC
+- title: 'Think Longer to Explore Deeper: Learn to Explore In-Context via Length-Incentivized
+    Reinforcement Learning'
+  topic: reinforcement-learning
+  date: '2026-02-12'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2602.11748
+  scholar_id: B_bdRlAAAAAJ:2P1L_qKh6hAC
+- title: Hegselmann-Krause Opinion Model on High-order Network
+  topic: opinion-mining
+  date: '2022-08-15'
+  venue: Chinese Control and Decision Conference (CCDC)
+  url: https://ieeexplore.ieee.org/abstract/document/10033976/
+  scholar_id: B_bdRlAAAAAJ:Zph67rFs4hoC
+- title: 'Game-Theoretic Control of Markov Chains: Two Applications'
+  topic: others
+  date: '2022-08-15'
+  venue: International Symposium on Mathematical Theory of Networks and Systems (MTNS)
+  url: https://scholar.google.com/scholar?cluster=580819202514403081&hl=en&oi=scholarr
+  scholar_id: B_bdRlAAAAAJ:LkGwnXOMwfcC
+- title: 'Intern-Decision: Efficient Multimodal Decision Making with Autoregressive
+    Masked Language Modeling'
+  topic: reinforcement-learning
+  date: '2026-10-15'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2610.22131
+  scholar_id: B_bdRlAAAAAJ:OU6Ihb5iCvQC
+- title: 'From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported
+    Physics Research'
+  topic: ai-for-math-and-physics
+  date: '2026-10-15'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2610.21767
+  scholar_id: B_bdRlAAAAAJ:uWQEDVKXjbEC
+- title: 'TPPO: Tracking-Value PPO For Language Model Reasoning'
+  topic: reinforcement-learning
+  date: '2026-10-12'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2610.16794
+  scholar_id: B_bdRlAAAAAJ:SP6oXDckpogC
+- title: 'Gains and Collapse in On-Policy Distillation: A Reinforcement Learning Perspective'
+  topic: reinforcement-learning
+  date: '2026-10-02'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2610.03185
+  scholar_id: B_bdRlAAAAAJ:KxtntwgDAa4C
+- title: 'SciWalker: Synthesizing Scientific Coding Problems with Operator Graphs
+    and Execution Feedback'
+  topic: ai-for-math-and-physics
+  date: '2026-09-24'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2609.30054
+  scholar_id: B_bdRlAAAAAJ:nb7KW1ujOQ8C
+- title: 'DeepInstructor: An Agentic AI Instructor for Experience-Driven Idea Evaluation'
+  topic: others
+  date: '2026-08-14'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2609.22104
+  scholar_id: B_bdRlAAAAAJ:f2IySw72cVMC
+- title: 'ComBench: A Benchmark for Rigorous Proof Reasoning and Constructive Realization
+    in Olympiad-Level Combinatorics'
+  topic: ai-for-math-and-physics
+  date: '2026-06-09'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2606.10479
+  scholar_id: B_bdRlAAAAAJ:D03iK_w7-QYC
+- title: 'TEMPO: Scaling Test-time Training for Large Reasoning Models'
+  topic: reinforcement-learning
+  date: '2026-04-21'
+  venue: arXiv preprint
+  url: https://arxiv.org/abs/2604.19295
+  scholar_id: B_bdRlAAAAAJ:4OULZ7Gr8RgC

@@ -1,0 +1,10 @@
+- id: ai-for-math-and-physics
+  title: AI for Math and Physics
+- id: reinforcement-learning
+  title: Reinforcement Learning
+- id: opinion-mining
+  title: Opinion Mining
+- id: graph-neural-network
+  title: Graph Neural Network
+- id: others
+  title: Others
