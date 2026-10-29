@@ -5,7 +5,7 @@
 ---
 - title: An empirical study of catastrophic forgetting in large language models during
     continual fine-tuning
-  topic: others
+  topic: forgetting-of-llms
   date: '2025-08-17'
   venue: IEEE Transactions on Audio, Speech and Language Processing
   url: https://ieeexplore.ieee.org/abstract/document/11151751/
@@ -35,7 +35,7 @@
   url: https://aclanthology.org/2022.coling-1.621/
   scholar_id: B_bdRlAAAAAJ:Se3iqnhoufwC
 - title: Spotlight on token perception for multimodal reinforcement learning
-  topic: reinforcement-learning
+  topic: post-training
   date: '2026-04-20'
   venue: ICLR
   url: https://proceedings.iclr.cc/paper_files/paper/2026/hash/a8e3197f627b9c88f86c0d3eb1ade5d7-Abstract-Conference.html
@@ -101,14 +101,14 @@
   scholar_id: B_bdRlAAAAAJ:4JMBOYKVnBMC
 - title: Investigating Forgetting in Pre-Trained Representations Through Continual
     Learning
-  topic: others
+  topic: forgetting-of-llms
   date: '2023-05-10'
   venue: arXiv preprint
   url: https://arxiv.org/abs/2305.05968
   scholar_id: B_bdRlAAAAAJ:YOwf2qJgpHMC
 - title: 'RefuteBench: Evaluating Refuting Instruction-Following for Large Language
     Models'
-  topic: others
+  topic: forgetting-of-llms
   date: '2024-01-01'
   venue: Findings of ACL
   url: https://aclanthology.org/2024.findings-acl.818/
@@ -160,13 +160,13 @@
   scholar_id: B_bdRlAAAAAJ:70eg2SAEIzsC
 - title: Mitigating Catastrophic Forgetting in Task-Incremental Continual Learning
     with Adaptive Classification Criterion
-  topic: others
+  topic: forgetting-of-llms
   date: '2023-05-20'
   venue: arXiv preprint
   url: https://arxiv.org/abs/2305.12270
   scholar_id: B_bdRlAAAAAJ:_kc_bZDykSQC
 - title: 'Draft-OPD: On-Policy Distillation for Speculative Draft Models'
-  topic: reinforcement-learning
+  topic: post-training
   date: '2026-05-28'
   venue: arXiv preprint
   url: https://arxiv.org/abs/2605.29343
@@ -236,14 +236,14 @@
   scholar_id: B_bdRlAAAAAJ:hqOjcs7Dif8C
 - title: 'SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context
     Reasoning'
-  topic: reinforcement-learning
+  topic: post-training
   date: '2026-08-14'
   venue: arXiv preprint
   url: https://arxiv.org/abs/2608.14277
   scholar_id: B_bdRlAAAAAJ:NhqRSupF_l8C
 - title: RefuteBench 2.0 -- Agentic Benchmark for Dynamic Evaluation of LLM Responses
     to Refutation Instruction
-  topic: others
+  topic: forgetting-of-llms
   date: '2025-02-25'
   venue: IEEE/ACM Transactions on Audio, Speech, and Language Processing
   url: https://arxiv.org/abs/2502.18308
@@ -267,7 +267,7 @@
   url: https://aclanthology.org/2024.naacl-long.372/
   scholar_id: B_bdRlAAAAAJ:4DMP91E08xMC
 - title: 'Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening'
-  topic: reinforcement-learning
+  topic: post-training
   date: '2026-09-16'
   venue: arXiv preprint
   url: https://arxiv.org/abs/2609.18708
@@ -294,7 +294,7 @@
   scholar_id: B_bdRlAAAAAJ:cFHS6HbyZ2cC
 - title: 'Think Longer to Explore Deeper: Learn to Explore In-Context via Length-Incentivized
     Reinforcement Learning'
-  topic: reinforcement-learning
+  topic: post-training
   date: '2026-02-12'
   venue: arXiv preprint
   url: https://arxiv.org/abs/2602.11748
@@ -313,7 +313,7 @@
   scholar_id: B_bdRlAAAAAJ:LkGwnXOMwfcC
 - title: 'Intern-Decision: Efficient Multimodal Decision Making with Autoregressive
     Masked Language Modeling'
-  topic: reinforcement-learning
+  topic: post-training
   date: '2026-10-15'
   venue: arXiv preprint
   url: https://arxiv.org/abs/2610.22131
@@ -326,13 +326,13 @@
   url: https://arxiv.org/abs/2610.21767
   scholar_id: B_bdRlAAAAAJ:uWQEDVKXjbEC
 - title: 'TPPO: Tracking-Value PPO For Language Model Reasoning'
-  topic: reinforcement-learning
+  topic: post-training
   date: '2026-10-12'
   venue: arXiv preprint
   url: https://arxiv.org/abs/2610.16794
   scholar_id: B_bdRlAAAAAJ:SP6oXDckpogC
 - title: 'Gains and Collapse in On-Policy Distillation: A Reinforcement Learning Perspective'
-  topic: reinforcement-learning
+  topic: post-training
   date: '2026-10-02'
   venue: arXiv preprint
   url: https://arxiv.org/abs/2610.03185
@@ -358,7 +358,7 @@
   url: https://arxiv.org/abs/2606.10479
   scholar_id: B_bdRlAAAAAJ:D03iK_w7-QYC
 - title: 'TEMPO: Scaling Test-time Training for Large Reasoning Models'
-  topic: reinforcement-learning
+  topic: post-training
   date: '2026-04-21'
   venue: arXiv preprint
   url: https://arxiv.org/abs/2604.19295

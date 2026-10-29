@@ -1,7 +1,9 @@
 - id: ai-for-math-and-physics
   title: AI for Math and Physics
-- id: reinforcement-learning
-  title: Reinforcement Learning
+- id: post-training
+  title: Post-Training
+- id: forgetting-of-llms
+  title: Forgetting of LLMs
 - id: opinion-mining
   title: Opinion Mining
 - id: graph-neural-network

@@ -11,14 +11,17 @@ publication_topics: true
 {% endif %}
 
 <div class="publications-layout">
-  <nav class="publications-toc" aria-label="Publication topics">
-    <h2 class="publications-toc__title">Topics</h2>
-    <ul>
-      {% for topic in site.data.publication_topics %}
-        <li><a href="#{{ topic.id }}">{{ topic.title | escape }}</a></li>
-      {% endfor %}
-    </ul>
-  </nav>
+  <div class="publications-toc-slot">
+    <nav class="publications-toc" aria-label="Publication topics">
+      <h2 class="publications-toc__title">Topics</h2>
+      <button type="button" class="publications-toc__toggle" aria-expanded="true" aria-controls="publication-topic-links">Topics</button>
+      <ul id="publication-topic-links">
+        {% for topic in site.data.publication_topics %}
+          <li><a href="#{{ topic.id }}">{{ topic.title | escape }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
 
   <div class="publications-list">
     {% for topic in site.data.publication_topics %}
